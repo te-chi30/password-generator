@@ -16,4 +16,4 @@ jobs:
       run: |
         python -m pip install --upgrade pip
     - name: Run script
-      run: python password generator.py
+      run: python main.py
